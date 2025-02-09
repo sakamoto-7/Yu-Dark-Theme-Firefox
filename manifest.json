@@ -1,0 +1,54 @@
+{
+  "manifest_version": 2,
+  "version": "0.2",
+  "name": "Yu",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-029-cc9cab928c1799136d18758709e91ecc.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(0, 204, 238)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(0, 304, 238)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 0, 149)",
+      "tab_line": "rgb(2, 140, 165)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(0, 204, 238)",
+      "button_background_active": "rgb(23, 23, 25)",
+      "button_background_hover": "rgb(68, 45, 79)",
+      "icons": "rgb(255, 0, 149)",
+      "ntp_background": "rgb(0, 0, 0)",
+      "ntp_text": "rgb(0, 204, 238)",
+      "ntp_card_background":  "rgb(117, 36, 84)",
+      "popup_border": "rgb(159, 65, 190)",
+      "popup_highlight_text": "rgb(230, 230, 230)",
+      "popup_highlight": "rgb(58, 158, 168)",
+      "sidebar_border": "rgb(255, 0, 149)",
+      "sidebar_highlight": "rgb(95, 47, 237)",
+      "sidebar_text": "rgb(0, 204, 238)",
+      "sidebar": "rgb(0, 0, 0)",
+      "tab_background_separator": "rgb(70, 47, 185)",
+      "tab_loading": "rgb(185, 58, 58)",
+      "tab_selected": "rgb(20, 17, 23)",
+      "tab_text": "rgb(194, 4, 255)",
+      "toolbar_bottom_separator": "rgb(0, 0, 0)",
+      "toolbar_field_border_focus": "rgba(28, 61, 139, 0.79)",
+      "toolbar_field_border": "rgb(2, 140, 165)",
+      "toolbar_field_text_focus": "rgb(255, 0, 149)",
+      "toolbar_top_separator": "rgb(0, 0, 0)",
+      "toolbar_vertical_separator": "rgb(255, 0, 149)"
+    }
+  }
+}
